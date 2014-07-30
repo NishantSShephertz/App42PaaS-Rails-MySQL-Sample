@@ -9,7 +9,7 @@ development:
 production:
   adapter: mysql2            
   host: 172.16.2.167                          # VM IP
-  port: 52442                          # VM Port 
+  port: 52442                         # VM Port 
   database: testdb            # Database Name
   username: alv56zmfumu7dvky                # User Name
   password: 'ah9fr9umh94ffzuu3sdpf421d5xy9bl1'                # Password
