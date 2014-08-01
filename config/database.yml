@@ -12,5 +12,5 @@ production:
   port: 47519                                 # VM Port 
   database: storage_db                          # Database Name
   username: a43v4cebie40kv0h                  # User Name
-  password: ' aqjjzexra0xyuu702a7kewfp4u5mj6p9'                # Password
+  password: 'aqjjzexra0xyuu702a7kewfp4u5mj6p9'                # Password
 
