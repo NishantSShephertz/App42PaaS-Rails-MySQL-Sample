@@ -35,7 +35,7 @@ end
 group :production do
   gem 'mysql2'
 end
-# Use ActiveModel has_secure_password
+# Use ActiveModel has_secure_password 
 # gem 'bcrypt-ruby', '~> 3.0.0'
 
 # Use unicorn as the app server
