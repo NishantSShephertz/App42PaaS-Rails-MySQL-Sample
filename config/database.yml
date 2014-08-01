@@ -12,5 +12,5 @@ production:
   port: 4371                                 # VM Port 
   database: store_dbh                          # Database Name
   username: axfvmeun6n0ye9k9                  # User Name
-  password: ' afr413rjygbibxbdtx14le5x88m4bj0x'                # Password
+  password: 'afr413rjygbibxbdtx14le5x88m4bj0x'                # Password
 
