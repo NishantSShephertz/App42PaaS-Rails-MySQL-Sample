@@ -9,8 +9,8 @@ development:
 production:
   adapter: mysql2            
   host: 192.168.3.241                         # VM IP
-  port: 47519                                 # VM Port 
-  database: storage_db                          # Database Name
-  username: a43v4cebie40kv0h                  # User Name
-  password: 'q5fop3u3ynkq1o2nl67dqwf11kjvbms4'                # Password
+  port: 44561                                 # VM Port 
+  database: data_db                         # Database Name
+  username: ar9exa491by08s7x                  # User Name
+  password: 'amgjdquyjbnu9cm3tn4bu5rkgr60hcr8'                # Password
 
